@@ -117,6 +117,7 @@
 
               <input type="date" name="DOB" class="form-control"value="<?= $row['DOB']; ?>" id="laststname" required>
             </div>
+            
             <br>
 
             <div class="form-group">
